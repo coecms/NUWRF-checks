@@ -1,0 +1,5 @@
+dir_lis:
+  - "/g/data/w35/ccc561/LIS-WRF/LISWRF_configs/hires_up/LIS_output"
+
+start_date: "1998-05" # First month of analysis, included
+end_date: "1999-05"  # Last month of analysis, included
